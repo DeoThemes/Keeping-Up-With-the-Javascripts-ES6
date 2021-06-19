@@ -15,7 +15,7 @@ The purpose of the application is to give users an easy way to purchase products
 ### User Stories
 
 #### Index.
-Upon a fresh load of the application, the user should see the shop catalog where they can search and browse items. The user can add products to a shopping cart. The user can create an account or login in the existing account and preview his/her orders. The user can edit or delete his/her account. 
+Upon a fresh load of the application, the user should see the shop catalog where they can search and browse items. The user can add products to a shopping cart. The user can create an account or login in the existing account and preview his/her orders.
 
 #### Sign Up / Login
 If "Sign Up" is clicked, the user should be taken to a form where they need to enter their: username and password. If "Login clicked" is clicked the user should be taken to a form where they need to enter their username and password.
